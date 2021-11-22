@@ -132,3 +132,5 @@ yarn-error.log*
 /backend/.env
 /backend/dbserver/.env
 >>>>>>> master
+
+.\package.json
